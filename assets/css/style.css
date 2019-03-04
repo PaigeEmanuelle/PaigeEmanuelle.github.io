@@ -22,6 +22,7 @@ div.polaroid {
   display: flex;
   flex-direction: row;
   color: grey;
+  justify-content: space-between;
 }
 
 div.container {
