@@ -3,8 +3,8 @@ title: HCI TC-2 Website
 email: peoconno@bowdoin.edu
 description: > # this means to ignore newlines until "baseurl:"
   This is a website for a fake artist for my HCI class
-baseurl: http://paigeemanuelle.github.io # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
+baseurl: /vlad # the subpath of your site, e.g. /blog/
+url: http://paigeemanuelle.github.io # the base hostname & protocol for your site
 github_username:  paigeemanuelle
 
 
