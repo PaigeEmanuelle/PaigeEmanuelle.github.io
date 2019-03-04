@@ -4,5 +4,5 @@ title:  "Sirogojno"
 date: 2019-03-04
 ---
 
-## "The Fall of Smedrevo" was a crowd-pleaser last night. Farewell Sirogjno!
-![alt-text](https://github.com/PaigeEmanuelle/paigeemanuelle.github.io/blob/master/assets/drvengrad.jpg)
+## "The Fall of Smedrevo" was a crowd-pleaser last night. Farewell Sirogojno!
+![alt-text](sirogojno.jpg "Sirogojno")
