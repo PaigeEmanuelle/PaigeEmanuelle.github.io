@@ -7,8 +7,7 @@ img.flag {
   border: 5px solid black;
   border-radius: 4px;
   padding: 5px;
-  width: 350px;
-  height: 200px;
+  width: 95%;
   box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)
 }
 
