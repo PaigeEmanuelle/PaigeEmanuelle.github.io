@@ -21,7 +21,7 @@ div.polaroid {
 .gallery-container {
   display: flex;
   flex-direction: row;
-  color: grey;
+  width: 95%;
   justify-content: space-between;
 }
 
