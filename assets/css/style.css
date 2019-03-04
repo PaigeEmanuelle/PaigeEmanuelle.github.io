@@ -51,7 +51,8 @@ div.container {
 .post-title {
   font-family: sans-serif;
   color: black;
-  font-size: 40px;
+  border: 5px solid black;
+  border-radius: 4px;
 }
 
 .page-home {
