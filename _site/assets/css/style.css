@@ -1,0 +1,55 @@
+body {
+  background: linear-gradient(to left top, blue, red) fixed;
+  font-family: sans-serif;
+}
+
+.post-title {
+  font-family: sans-serif;
+  color: black;
+  font-size: 40px;
+}
+
+.page-home {
+  font-size: 50px;
+  font-family: 'Major Mono Display', monospace;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.artist {
+  font-family: 'Major Mono Display', monospace;
+  font-size: 50px;
+}
+
+.link-column {
+  flex-direction: column;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-top: 40px;
+  justify-content: center;
+}
+
+a.menu-item:link, a.menu-item:visited {
+  border: 2px solid white;
+  border-radius: 8px;
+  border-width: 5px;
+  font-family: sans-serif;
+  color: white;
+  width: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a.menu-item:hover {
+  background-color: black;
+}

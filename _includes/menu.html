@@ -1,0 +1,5 @@
+<div class="link-column">
+  {% for link in site.links %}
+    <a class="menu-item" href="{{ link.url | prepend: site.baseurl}}">{{ link.title }}</a>
+  {% endfor %}
+</div>
