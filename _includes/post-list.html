@@ -1,10 +1,12 @@
-<div class="post-list">
-  <h1>Entry List</h1>
-    {% for post in site.posts %}
-        <div class="content">
-            <a title="Open the post" href="{{ post.url }}">
-                <h2 class="post-title">{{ post.title | replace: ' ','-'}}.md</h2>
-            </a>
-        </div>
-    {% endfor %}
+<div class = "post-list-container">
+  <h2 class="vlado">Vlado's Posts: </h2>
+  <div class="post-list">
+      {% for post in site.posts %}
+          <div class="content">
+              <a title="Open the post" href="{{ post.url }}">
+                  <h3 class="post-title">{{ post.title | replace: '-',' '}}</h3>
+              </a>
+          </div>
+      {% endfor %}
+  </div>
 </div>

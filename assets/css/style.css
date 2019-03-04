@@ -3,6 +3,32 @@ body {
   font-family: sans-serif;
 }
 
+img.flag {
+  border: 5px solid black;
+  border-radius: 4px;
+  padding: 5px;
+  width: 350px;
+  height: 200px;
+  box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)
+}
+
+.vlado{
+  font-family: 'Major Mono Display', monospace;
+  font-size: 40px;
+}
+
+.page-about {
+  font-size: 20px;
+}
+
+.post-list-container {
+  position: absolute;
+  z-index: 15;
+  top: 50%;
+  left: 50%;
+  margin: -100px 0 0 -150px;
+}
+
 .post-title {
   font-family: sans-serif;
   color: black;
