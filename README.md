@@ -1,17 +1,17 @@
-##Overview
+## Overview
 
 Name: Paige O'Connor
 Date: March 4, 2019
 Project Title: HCI-TC-2
 Goal: Create a website for a fake artist with Jekyll + Github Pages
 
-##Usage
+## Usage
 
 You can reach my site at https://paigeemanuelle.github.io
 Navigate the site by using the menu buttons in the upper-right corner
 The titles on the journal page are clickable and will lead you to posts
 
-##Design Decisions
+## Design Decisions
 
 One deliberate design decision I made was to have the main navigation menu (in the header) be available no matter where the user is on the site, making it easy to move from page to page without clicking the back button. The name of the artist is featured prominently in the upper-left corner of the header to catch the user's attention; this is also present on every page.
 
@@ -29,8 +29,7 @@ If I had more time, I would have liked to create a special album layout for the 
 
 To challenge myself with CSS for this project, I did some image formatting by creating cards (I've used cards with frameworks like Bootstrap and Angular but had not made them on my own). I also challenged myself to use flexbox formatting instead of specifying pixels for sizing and spacing.
 
-
-##Challenges
+## Challenges
 
 It took me quite a while just to download Jekyll, and to figure out how to run it locally on my computer. Despite reading about the benefits in the documentation provided, I still wasn't really sure why we were using it; I did not understand how layouts differed from templates.
 
@@ -44,7 +43,7 @@ Finally, even though I thought I had set up Github Pages right from the beginnin
 
 I think the sink-or-swim approach to this project made it a bit frustrating (there were multiple new technologies introduced at once, online tutorials differed to a large degree), but now that I am at the end of it I feel that I have a good sense of the advantages of using layouts and of static site generation. I still don't quite understand how Ruby plays a role in this project and what the Gems are doing.
 
-##Deficiencies
+## Deficiencies
 
 Things that I think are not great about my site / would improve:
 - The layout is not completely responsive when the window is resized
@@ -53,18 +52,23 @@ Things that I think are not great about my site / would improve:
 - The designs of the About and Music pages could be more visually appealing
 - Perhaps there should be more interactive parts besides the menu
 
-##Further Development
+## Further Development
 
 After this is graded I might actually try to turn this into a portfolio website for myself. I didn't realize that Github Pages existed and that you can use it host a site for free. Jekyll seems especially good for an informational/resume site that does not involve much user interaction. I ended up looking at fairly basic examples of layouts so that I could accomplish creating one, but I would be interested to see more extensive uses of layouts.
 
-##Credits
+## Credits
 
 Where I got my images:
 https://theculturetrip.com/europe/serbia/articles/the-12-most-beautiful-towns-and-villages-in-serbia/
 https://barrydownepaint.com/collections/color-trends-2019/products/af-165-kona?variant=46055857031
+https://www.google.com/search?q=serbian+flag&rlz=1C5CHFA_enUS760US760&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjpg-b06-ngAhVmn-AKHVjHDZUQ_AUIDigB&biw=1337&bih=644#imgrc=vAqzrOW20EI7UM:
 
 How I learned to make cards for the album covers:
 https://www.w3schools.com/css/tryit.asp?filename=trycss_ex_images_card
 
 Helped me understand the structure of a Jekyll site and layouts:
 https://github.com/victorvoid/space-jekyll-template
+
+I also consulted the tutorials you included in the project description and StackOverflow for debugging purposes.
+
+Credit to my friend Archer for introducing me to the frightening genre of Turbo-folk.
