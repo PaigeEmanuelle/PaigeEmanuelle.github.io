@@ -8,8 +8,8 @@ Goal: Create a website for a fake artist with Jekyll + Github Pages
 ## Usage
 
 You can reach my site at https://paigeemanuelle.github.io
-Navigate the site by using the menu buttons in the upper-right corner
-The titles on the journal page are clickable and will lead you to posts
+- Navigate the site by using the menu buttons in the upper-right corner
+- The titles on the journal page are clickable and will lead you to posts
 
 ## Design Decisions
 
